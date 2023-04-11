@@ -1,3 +1,8 @@
 theme: minima
-title: Tester dette
+title: Norsk nettverk for digital humaniora og kulturinstitusjoner
+author:
+  name: Camilla Soelseth
+  email: your-email@domain.com
 description: Bookmark this to keep an eye on my project updates!
+# Build settings
+remote_theme: jekyll/minima
