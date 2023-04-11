@@ -1,5 +1,6 @@
 ---
-layout: home 
+layout: home
+title: hello
 ---
 
 Norsk nettverk for digital humaniora og kulturinstitusjoner (ABM)
