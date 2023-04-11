@@ -6,3 +6,6 @@ author:
 description: Bookmark this to keep an eye on my project updates!
 # Build settings
 remote_theme: jekyll/minima
+header_pages:
+  - about.md
+  - ressurser.md
