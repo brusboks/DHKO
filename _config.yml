@@ -3,9 +3,6 @@ title: Norsk nettverk for digital humaniora og kulturinstitusjoner
 author:
   name: Camilla Soelseth
   email: your-email@domain.com
-description: Bookmark this to keep an eye on my project updates!
+description: DHKI - Norsk nettverk for digital humaniora og kulturinstitusjoner
 # Build settings
 remote_theme: jekyll/minima
-header_pages:
-  - about.md
-  - ressurser.md
