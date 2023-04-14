@@ -23,7 +23,7 @@ Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og 
 
 ## **FREMTIDIGE AKTIVITETER**  
 - 14 Juni: Lansering i forbindelse med DH10ÅR i Norge
-- Høsten 2023: [dagskonferanse i Oslo](konf2023.md)
+- Høsten 2023: [dagskonferanse i Oslo](Konf2023.md)
 > Kommer: Mer informasjon kommer
 
 
