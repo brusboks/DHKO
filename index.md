@@ -1,3 +1,10 @@
+---
+
+---
+
+ {% include navigation.html %}
+ 
+ 
 # DHKI
 **Norsk nettverk for digital humaniora og kulturinstitusjoner**  
 
