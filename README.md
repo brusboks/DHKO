@@ -18,7 +18,7 @@ Det som eventuelt vil koste er reise og opphold ved fremtidige samlinger, så fr
 Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og arbeidet er ubetalt. Minst 1 person fra hvert store norske institusjon hvor det er relevant. Forplikter seg til å bruke litt av sine egne penger til å fremme nettverkets aktivitet.  
 ### **2023**
 **Logistikk og Vedlikehold**: Camilla Holm Soelseth | camil@oslomet.no  
-**ORAKEL**: Annika Rockenberger | MAIL
+**ORAKEL**: Annika Rockenberger | annika.rockenberger@ub.uio.no
 > Kommer: Fullstendig arbeidsgruppe
 
 ## **FREMTIDIGE AKTIVITETER**  
