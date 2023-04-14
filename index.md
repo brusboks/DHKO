@@ -1,5 +1,6 @@
 ---
-
+layout: default
+title: "Norsk nettverk for digital humaniora og kulturinstitusjoner"
 ---
 
 
@@ -34,4 +35,4 @@ Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og 
 > Kommer: Mer informasjon kommer
 
 
-{% include footer.html %}
+
