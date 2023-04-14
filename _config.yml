@@ -4,5 +4,4 @@ author:
   name: Camilla Soelseth
   email: your-email@domain.com
 description: DHKI - Norsk nettverk for digital humaniora og kulturinstitusjoner
-# Build settings
-remote_theme: jekyll/minima
+
