@@ -34,3 +34,4 @@ Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og 
 > Kommer: Mer informasjon kommer
 
 
+{% include footer.html %}
