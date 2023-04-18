@@ -9,10 +9,6 @@ På lang sikt vil nettverket jobbe for å få til en fast årlig konferanse, phd
 
 For å sikre utviklingen vil vi samarbeide med lignende nettverk i andre land i Europa, med særlig fokus på Norden. Her er særlig [DHNB](https://dhnb.eu/) en organisasjon vi ser som viktig for å dekke den nordiske og baltiske delen.
 
-## **Medlemskap**  
-Medlemskap er gratis. 
-Det som eventuelt vil koste er reise og opphold ved fremtidige samlinger, så fremt det ikke vil dekkes helt eller delvis av støtte fra fond og/eller institusjoner. Medlemskap kan oppnås ved påmelding til e-postliste. Dette gir tilgang til nettverkets månedlige nyhetsbrev samt invitasjon til vår Slack-kanal.  
-> Kommer: Sett inn lenke til påmelding.  
 
 ## **Arbeidsgruppe**  
 Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og arbeidet er ubetalt. Minst 1 person fra hvert store norske institusjon hvor det er relevant. Forplikter seg til å bruke litt av sine egne penger til å fremme nettverkets aktivitet.  
@@ -20,9 +16,3 @@ Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og 
 **Logistikk og Vedlikehold**: Camilla Holm Soelseth | camil@oslomet.no  
 **ORAKEL**: Annika Rockenberger | annika.rockenberger@ub.uio.no
 > Kommer: Fullstendig arbeidsgruppe
-
-## **FREMTIDIGE AKTIVITETER**  
-- 14 Juni: Lansering i forbindelse med DH10ÅR i Norge
-- Høsten 2023: dagskonferanse i Oslo
-> Kommer: Mer informasjon kommer
-
