@@ -1,12 +1,11 @@
 ---
-title: "Norsk nettverk for digital humaniora og kulturinstitusjoner"
+layout: default
 ---
 
 
  
  
 # DHKI
-**Norsk nettverk for digital humaniora og kulturinstitusjoner**  
 
 DHKI er en løst organisert gruppe av akademikere som har interesse for OG/eller befinner seg i digital humaniora, både i bred og smal forstand. Her inngår den brede; humanistiske perspektiver på det digitale og på digitalt materiale, og dessuten den mer spesifikke (og dominerende betegnelsen) som omhandler digitale metoder for analyse og tolkning av humanistisk materiale ved bruk av software og/eller statistiske metoder. Siden humanistisk materiale ofte har en tilknytning til arkiver, biblioteker og museer har dette nettverket til hensikt å situere seg i ABM-feltet og knytte forskningen opp mot, og med, kultur- og informasjonsinstitusjoner. Nettverket er derfor åpent for akademikere i bred forstand, og det kreves ingen tilknytning til en institusjon.
 
