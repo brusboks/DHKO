@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Norsk nettverk for digital humaniora og kulturinstitusjoner"
 ---
 
