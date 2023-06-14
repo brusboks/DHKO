@@ -1,10 +1,12 @@
-# DHKI
-**Norsk nettverk for digital humaniora og kulturinstitusjoner**  
+# DHKO
+**Norsk nettverk for digital humaniora og kulturorganisasjon**  
 
-HKI er en løst organisert gruppe av akademikere som har interesse for og/eller befinner seg i digital humaniora, både i bred og smal forstand. Dette innebefatter:   
+DHKO er en løst organisert gruppe av akademikere som har interesse for og/eller befinner seg i digital humaniora, både i bred og smal forstand. Dette innebefatter:   
 - Humanistiske perspektiver på det digitale, digital teknologi og på digitalt materiale.
 - Bruk av software og digitale metoder for analyse og tolkning i humanistisk orientert forskning.   
 Siden humanistisk materiale ofte har en tilknytning til arkiver, biblioteker og museer har dette nettverket til hensikt å situere seg i ABM-feltet og knytte forskningen opp mot, og med, kultur- og informasjonsinstitusjoner. Nettverket er derfor åpent for akademikere i bred forstand, og det kreves ingen tilknytning til en bestemt institusjon.
+
+Med begrepet kulturorganisasjon mener vi det som innebefatter organisering, lagring, og tilgjengeliggjøring av kulturelle artifakter og kultur som data. Med andre ord; infrastrukturelle forhold. 
 
 Nettverkets formål er å skape rom for utveksling av faglig erfaringer, samt bidra til en styrkelse av digital humaniora i Norge - og særlig opp mot ABM-feltet. Formålene skal fremmes ved å holde konferanser, seminarer og webinarer. Samt å jobbe i samarbeid med forskningsstøtte ved institusjonsbibliotekene i Norge. 
 
