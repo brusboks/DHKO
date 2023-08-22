@@ -3,8 +3,9 @@ layout: default
 ---
 
 
- 
- 
+ ## Konferanse 2023
+  [Dagskonferanse i Oslo 24 oktober!](Konf2023.md)
+  
 # DHKO
 
 DHKO er en løst organisert gruppe av akademikere som har interesse for og/eller befinner seg i digital humaniora, både i bred og smal forstand. Dette innebefatter:   
