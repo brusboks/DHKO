@@ -4,7 +4,7 @@ layout: default
 
 
  ## Konferanse 2023
-  [Dagskonferanse i Oslo 24 oktober!](Konf2023.md)
+  ["Looking back, and taking a big step forward!" - Dagskonferanse i Oslo 24 oktober!](Konf2023.md)
   
 # DHKO
 
