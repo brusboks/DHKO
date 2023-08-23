@@ -8,7 +8,8 @@ layout: default
   ["Looking back, and taking a big step forward!" - Dagskonferanse i Oslo 24 oktober!](Konf2023.md)
   
 # DHKO
-
+> ENGLISH version will be available soon.
+> 
 DHKO er en løst organisert gruppe av akademikere som har interesse for og/eller befinner seg i digital humaniora, både i bred og smal forstand. Dette innebefatter:   
 - Humanistiske perspektiver på det digitale, digital teknologi og på digitalt materiale.
 - Bruk av software og digitale metoder for analyse og tolkning i humanistisk orientert forskning.   
