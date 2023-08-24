@@ -38,7 +38,7 @@ Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og 
 
 ## **FREMTIDIGE AKTIVITETER**  
 - Høsten 2023: [dagskonferanse i Oslo](Konf2023.md)
-> Kommer: Mer informasjon kommer
+> Kommer: Aktiviteter for 2024.
 
 
 
