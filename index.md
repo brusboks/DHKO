@@ -5,7 +5,7 @@ layout: default
 
 
  
-  ["Looking back, and taking a big step forward!" - Dagskonferanse i Oslo 24 oktober!](Konf2023.md)
+
   
 # DHKO
 > ENGLISH version will be available soon.
@@ -31,14 +31,17 @@ Det som eventuelt vil koste er reise og opphold ved fremtidige samlinger, så fr
 
 ## **Arbeidsgruppe**  
 Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og arbeidet er ubetalt. Minst 1 person fra hvert store norske institusjon hvor det er relevant. Forplikter seg til å bruke litt av sine egne penger til å fremme nettverkets aktivitet.  
-### **2023**
-**Logistikk og Vedlikehold**: Camilla Holm Soelseth | camil@oslomet.no  
-**ORAKEL**: Annika Rockenberger | annika.rockenberger@ub.uio.no
-> Kommer: Fullstendig arbeidsgruppe
+### **2024**
+**Leder**: Camilla Holm Soelseth | camil@oslomet.no  
+**Nest-leder**: Annika Rockenberger | annika.rockenberger@ub.uio.no
+> Kommer: Resterende medlemmer vil bli lagt til etter første møte er gjennomført med nye medlemmer i arbeidsgruppa (januar 2024). 
 
-## **FREMTIDIGE AKTIVITETER**  
-- Høsten 2023: [dagskonferanse i Oslo](Konf2023.md)
-> Kommer: Aktiviteter for 2024.
+## **FREMTIDIGE AKTIVITETER** 
+- Høsten 2024: Konferanse i Trondheim (NTNU)
+> Kommer: Aktiviteter for 2024 (webinarer).
+
+## **TIDLIGERE AKTIVITETER**
+> - Høsten 2023: Konferanse i Oslo (UiO)
 
 
 
