@@ -20,4 +20,4 @@ Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og 
 ### **2023**
 **Logistikk og Vedlikehold**: Camilla Holm Soelseth | camil@oslomet.no  
 **ORAKEL**: Annika Rockenberger | annika.rockenberger@ub.uio.no
-> Kommer: Fullstendig arbeidsgruppe
+> Kommer: Arbeidsgruppe for 2024 bestående av 6 personer publiseres her i desember 2024 når første møteinnkallelse er sent og alle har akseptert. 
