@@ -27,7 +27,10 @@ For å sikre utviklingen vil vi samarbeide med lignende nettverk i andre land i 
 ## **Medlemskap**  
 Medlemskap er gratis. 
 Det som eventuelt vil koste er reise og opphold ved fremtidige samlinger, så fremt det ikke vil dekkes helt eller delvis av støtte fra fond og/eller institusjoner. Medlemskap kan oppnås ved påmelding til e-postliste. Dette gir tilgang til nettverkets månedlige nyhetsbrev samt invitasjon til vår Slack-kanal.  
-> Kommer: Innmeldingsskjema. send foreløpig e-mail til Camilla Holm Soelseth for manuell påmelding og tilgang til Slack. 
+> Kommer: Innmeldingsskjema. send foreløpig e-mail til Camilla Holm Soelseth for manuell påmelding og tilgang til Slack.
+
+## **BlueSky**
+Finn oss på BlueSky: [@dhko@bsky.social](https://bsky.app/profile/dhko.bsky.social). 
 
 ## **Arbeidsgruppe**  
 Arbeidsgruppen til planlegging av aktiviteter består av følgende personer, og arbeidet er ubetalt. Minst 1 person fra hvert store norske institusjon hvor det er relevant. Forplikter seg til å bruke litt av sine egne penger til å fremme nettverkets aktivitet.  
