@@ -1,0 +1,78 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@layer base {
+  main {
+    flex-grow: 1;
+    padding: 1.25rem;
+  }
+  
+  main h2, main h1 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
+    @apply text-teal-900;
+  }
+
+  main h3 {
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 1.25rem;
+    @apply text-teal-900;
+  }
+
+  p {
+    @apply pb-6
+  }
+
+  blockquote {
+    @apply bg-slate-100;
+    padding: 1rem;
+    border-left: 4px solid #e2e8f0;
+    margin: 1rem 0;
+  }
+
+  ::selection {
+    @apply bg-rose-500 text-white;
+  }
+
+  a {
+    @apply decoration-rose-500 underline decoration-2 underline-offset-4
+  }
+
+  a[aria-current] {
+    @apply decoration-orange-200 underline decoration-2 underline-offset-4
+  }
+
+  main a {
+    @apply decoration-rose-500 underline decoration-2 underline-offset-4
+  }
+
+  main ul, main ol {
+    @apply pb-6 pl-5 ;
+  }
+
+
+  main ul {
+    @apply list-disc;
+  }
+
+  
+
+  main ol {
+    @apply list-decimal;
+  }
+
+  main li {
+    @apply pb-2;
+  }
+
+
+  code {
+    @apply bg-slate-100 text-slate-800 rounded-sm px-1;
+  }
+  
+
+}
